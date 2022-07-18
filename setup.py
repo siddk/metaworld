@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 required = [
     # Please keep alphabetized
     'gym>=0.15.4',
-    'free-mujoco-py',
+    'mujoco-py',
     'numpy>=1.18',
 ]
 
